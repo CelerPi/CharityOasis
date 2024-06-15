@@ -1,5 +1,37 @@
 # CharityOasisCoin Whitepaper
 
+## Table of Contents
+- [CharityOasis White Paper](#charityoasis-white-paper)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Problem Statement](#problem-statement)
+  - [Vision and Mission](#vision-and-mission)
+  - [Solution](#solution)
+  - [Technical Implementation](#technical-implementation)
+    - [Technical Architecture](#technical-architecture)
+    - [Smart Contract Functions](#smart-contract-functions)
+    - [Platform Security](#platform-security)
+  - [Tokenomics](#tokenomics)
+    - [Token Supply](#token-supply)
+    - [Holding Reward Mechanism](#holding-reward-mechanism)
+    - [Airdrop and Governance Rewards](#airdrop-and-governance-rewards)
+  - [Fund Allocation Plan](#fund-allocation-plan)
+  - [Team and Advisors](#team-and-advisors)
+    - [Core Team](#core-team)
+  - [Roadmap](#roadmap)
+    - [Phase 1: Project Initiation (Months 1-3)](#phase-1-project-initiation-months-1-3)
+    - [Phase 2: Development and Testing (Months 4-9)](#phase-2-development-and-testing-months-4-9)
+    - [Phase 3: Launch and Promotion (Months 10-18)](#phase-3-launch-and-promotion-months-10-18)
+    - [Phase 4: Continuous Development (Month 19 onwards)](#phase-4-continuous-development-month-19-onwards)
+  - [Legal Compliance](#legal-compliance)
+  - [Risks and Mitigation](#risks-and-mitigation)
+    - [Market Risks](#market-risks)
+    - [Technical Risks](#technical-risks)
+    - [Legal Risks](#legal-risks)
+  - [Community Building and Marketing Plan](#community-building-and-marketing-plan)
+  - [Partners and Supporters](#partners-and-supporters)
+  - [Conclusion](#conclusion)
+
 ## Introduction
 
 CharityOasisCoin is a cryptocurrency designed to promote global philanthropy by enhancing transparency, reducing transaction costs, and building donor trust. Our token (COC) will serve as the primary transaction medium and incentive mechanism to help achieve these goals. To further enhance user engagement and support charitable causes, we plan to integrate cryptocurrency and blockchain technology into the Shopify e-commerce platform through innovative payment and rewards mechanisms, increasing user engagement and brand value.
@@ -246,5 +278,3 @@ CharityOasisCoin is committed to leveraging blockchain technology and an innovat
 CharityOasisCoin envisions creating a transparent, efficient, and fair global charity ecosystem. Through technological means, we aim to redefine the operational model of charity, ensuring every donation is effectively utilized to help more people in need. We look forward to working with global charitable organizations, blockchain enthusiasts, and socially responsible investors to create a better future together.
 
 ---
-
-We hope this expanded and detailed whitepaper meets your expectations and provides a comprehensive overview of the CharityOasisCoin project. If you need any further adjustments or additions, please let us know!
