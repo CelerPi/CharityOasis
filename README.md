@@ -2,11 +2,11 @@
 
 ## Introduction
 
-CharityOasisCoin (COC) is a cryptocurrency designed to promote global philanthropy by enhancing transparency, reducing transaction costs, and building donor trust. Our token (COC) will serve as the primary transaction medium and incentive mechanism to help achieve these goals.
+CharityOasis (CHO) is a cryptocurrency designed to promote global philanthropy by enhancing transparency, reducing transaction costs, and building donor trust. Our token (CHO) will serve as the primary transaction medium and incentive mechanism to help achieve these goals.
 
 ## Background
 
-In an era where technological advancements continually reshape societal norms, COC aims to leverage blockchain technology to advance charitable endeavors. By utilizing this innovative technology, we strive to transcend the boundaries of traditional charitable giving and create a transparent, efficient, and fair global charity ecosystem.
+In an era where technological advancements continually reshape societal norms, CHO aims to leverage blockchain technology to advance charitable endeavors. By utilizing this innovative technology, we strive to transcend the boundaries of traditional charitable giving and create a transparent, efficient, and fair global charity ecosystem.
 
 ## Problem Statement
 
@@ -28,15 +28,15 @@ Existing charity platforms generally lack effective incentive mechanisms, failin
 
 ### Vision
 
-COC envisions creating a transparent, efficient, and fair global charity ecosystem. Through technological means, we aim to redefine the operational model of charity, ensuring every donation is effectively utilized to help more people in need.
+CHO envisions creating a transparent, efficient, and fair global charity ecosystem. Through technological means, we aim to redefine the operational model of charity, ensuring every donation is effectively utilized to help more people in need.
 
 ### Mission
 
-COC's mission is to use blockchain technology and a token economic model to enhance the transparency and efficiency of charitable projects. We aim to incentivize more people to participate in charitable donations and promote the development of global philanthropy.
+CHO's mission is to use blockchain technology and a token economic model to enhance the transparency and efficiency of charitable projects. We aim to incentivize more people to participate in charitable donations and promote the development of global philanthropy.
 
 ### Audit and Supervision
 
-COC will engage third-party auditors to conduct regular independent audits, ensuring that fund usage is fair and transparent. Audit reports will be publicly released and subject to public and community scrutiny.
+CHO will engage third-party auditors to conduct regular independent audits, ensuring that fund usage is fair and transparent. Audit reports will be publicly released and subject to public and community scrutiny.
 
 ### Project Selection and Management
 
@@ -44,7 +44,7 @@ All charitable projects will undergo rigorous screening and evaluation processes
 
 ## Solution
 
-COC addresses the aforementioned problems through the following methods:
+CHO addresses the aforementioned problems through the following methods:
 
 ### Blockchain Transparency
 
@@ -64,7 +64,7 @@ By establishing an online store and partnering with local businesses worldwide, 
 
 ## Technical Implementation
 
-COC cryptocurrency is developed based on the existing mainnet chain Polygon, with the main technical components including:
+CHO cryptocurrency is developed based on the existing mainnet chain Polygon, with the main technical components including:
 
 ### Smart Contracts
 
@@ -80,7 +80,7 @@ We provide tools for real-time tracking of donation flows and fund usage. This a
 
 ## Tokenomics
 
-COC, as the main transaction medium within the ecosystem, has various incentive mechanisms. Through reasonable token distribution and reward mechanisms, we ensure sustainable development and active participation.
+CHO, as the main transaction medium within the ecosystem, has various incentive mechanisms. Through reasonable token distribution and reward mechanisms, we ensure sustainable development and active participation.
 
 ### Token Supply
 
@@ -94,7 +94,7 @@ COC, as the main transaction medium within the ecosystem, has various incentive 
 
 ### Holding Reward Mechanism
 
-COC's holding reward mechanism incentivizes users to hold tokens for the long term, enhancing token stability and user participation. The mechanism involves taking daily snapshots of user holdings and distributing rewards based on their holding proportion. Holding rewards are calculated daily and distributed to users' wallets at specific intervals (e.g., daily or weekly). Here are the detailed explanations of the holding reward mechanism:
+CHO's holding reward mechanism incentivizes users to hold tokens for the long term, enhancing token stability and user participation. The mechanism involves taking daily snapshots of user holdings and distributing rewards based on their holding proportion. Holding rewards are calculated daily and distributed to users' wallets at specific intervals (e.g., daily or weekly). Here are the detailed explanations of the holding reward mechanism:
 
 #### Advantages of the Holding Reward Mechanism
 
@@ -145,14 +145,14 @@ COC's holding reward mechanism incentivizes users to hold tokens for the long te
 
 ### Revenue Distribution and Project Support
 
-The COC online store allocates 20% of its quarterly revenue for project operations and support:
+The CHO online store allocates 20% of its quarterly revenue for project operations and support:
 - 5% for token buyback and burning to reduce market supply and stabilize token value.
 - 5% for the permanent incentive pool to support platform incentive mechanisms and rewards.
 - 10% for the charity fund pool to support various charitable projects.
 
 ## Presale Fund Allocation Plan
 
-COC ensures the transparent and efficient use of funds. All fund usage will be regularly disclosed and subject to community oversight.
+CHO ensures the transparent and efficient use of funds. All fund usage will be regularly disclosed and subject to community oversight.
 
 - **Technical Development**: 20% (2 billion tokens) for token development and maintenance, including smart contract development and data transparency tool implementation. These funds will cover developer salaries, necessary hardware and software purchases, and other technical-related expenses.
 - **Marketing**: 10% (1 billion tokens) for project promotion and community building, attracting more users and partners. These funds will be used for advertising, market promotion activities, partnership establishment, and more.
@@ -162,11 +162,11 @@ COC ensures the transparent and efficient use of funds. All fund usage will be r
 
 ## Core Team
 
-COC is led by a team of experienced professionals with extensive expertise in blockchain and philanthropy. For privacy protection and decentralization principles, the team chooses to remain anonymous. Team members have rich experience in blockchain and philanthropy, ensuring the highest standards of technology and operation.
+CHO is led by a team of experienced professionals with extensive expertise in blockchain and philanthropy. For privacy protection and decentralization principles, the team chooses to remain anonymous. Team members have rich experience in blockchain and philanthropy, ensuring the highest standards of technology and operation.
 
 ## Roadmap
 
-COC's development is divided into three major phases, each with clear goals and tasks to ensure smooth progress and continuous growth.
+CHO's development is divided into three major phases, each with clear goals and tasks to ensure smooth progress and continuous growth.
 
 ### Phase 1: Project Launch and Promotion
 
@@ -235,7 +235,7 @@ We have a comprehensive risk management system to identify and address potential
 
 ### 7. Community Participation and Transparency
 
-We encourage community members to participate in platform decision-making and supervision through governance tokens (COC), ensuring transparency and democracy. Community members can vote on major decisions and supervise project compliance.
+We encourage community members to participate in platform decision-making and supervision through governance tokens (CHO), ensuring transparency and democracy. Community members can vote on major decisions and supervise project compliance.
 
 ## Legal Compliance Statement
 
@@ -245,11 +245,11 @@ CharityOasisCoin will strictly adhere to all applicable laws and regulations to 
 - Protecting all user data under global data protection laws.
 - Ensuring all fund usage is transparent and subject to community and public scrutiny.
 
-Through these measures, we ensure the compliance and transparency of the COC project in major jurisdictions, including data protection and financial regulatory requirements, protecting the rights and interests of users and investors, and promoting the healthy development of global philanthropy.
+Through these measures, we ensure the compliance and transparency of the CHO project in major jurisdictions, including data protection and financial regulatory requirements, protecting the rights and interests of users and investors, and promoting the healthy development of global philanthropy.
 
 ## Risks and Mitigation
 
-COC identifies and addresses potential risks through various measures to ensure security and stability.
+CHO identifies and addresses potential risks through various measures to ensure security and stability.
 
 ### Market Risks
 
@@ -265,7 +265,7 @@ COC identifies and addresses potential risks through various measures to ensure 
 
 ## Community Building and Marketing Plan
 
-The community is crucial to COC's success. Through various channels and activities, we aim to build an active and supportive community.
+The community is crucial to CHO's success. Through various channels and activities, we aim to build an active and supportive community.
 
 ### Community Interaction
 
@@ -281,7 +281,7 @@ Promoting the project through online and offline channels, using social media ad
 
 ## Partners and Supporters
 
-COC establishes close partnerships with relevant sectors to increase the project's influence and credibility.
+CHO establishes close partnerships with relevant sectors to increase the project's influence and credibility.
 
 ### Potential Partners
 
@@ -293,12 +293,12 @@ Developing incentive plans to encourage community members and early supporters t
 
 ## Conclusion
 
-COC is dedicated to leveraging blockchain technology and an innovative token economic model to promote global philanthropy. By enhancing transparency, efficiency, and incentive mechanisms, we attract more donors and participants, ensuring every donation effectively helps more people in need.
+CHO is dedicated to leveraging blockchain technology and an innovative token economic model to promote global philanthropy. By enhancing transparency, efficiency, and incentive mechanisms, we attract more donors and participants, ensuring every donation effectively helps more people in need.
 
 We envision creating a transparent, efficient, and fair global charity ecosystem. Through technological means, we aim to redefine the operational model of charity, ensuring all donations are transparently utilized. Our platform will use smart contracts and a public ledger to ensure that all donations and fund usage are transparent and traceable, enhancing donor trust and participation.
 
-Additionally, COC focuses on creating employment opportunities through the project. By establishing an online store, virtual goods trading, and implementing global charity projects, we will provide job opportunities in community management, technical development, project management, and marketing, promoting economic and social progress.
+Additionally, CHO focuses on creating employment opportunities through the project. By establishing an online store, virtual goods trading, and implementing global charity projects, we will provide job opportunities in community management, technical development, project management, and marketing, promoting economic and social progress.
 
 We look forward to collaborating with global charitable organizations, blockchain enthusiasts, and socially responsible investors to create a better future. Through this cooperation, we believe we can build a more equitable world, providing more support and hope to those in need.
 
-COC's innovative model represents the future of philanthropy and exemplifies the practical application of blockchain technology. Join us in making a real difference in philanthropy, creating more job opportunities, and promoting economic and social progress together.
+CHO's innovative model represents the future of philanthropy and exemplifies the practical application of blockchain technology. Join us in making a real difference in philanthropy, creating more job opportunities, and promoting economic and social progress together.
