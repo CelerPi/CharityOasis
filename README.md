@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [CharityOasis Whitepaper](#charityoasis-whitepaper)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Background](#background)
   - [Problem Statement](#problem-statement)
