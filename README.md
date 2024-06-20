@@ -1,4 +1,4 @@
-# CharityOasisCoin White Paper
+# CharityOasis WhitePaper
 
 ## Table of Contents
 - [CharityOasisCoin White Paper](#charityoasiscoin-white-paper)
