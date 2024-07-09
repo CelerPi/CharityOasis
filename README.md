@@ -2,9 +2,7 @@
 
 We will open-source everything here. Please feel free to check it whenever you want.
 
-Here is our Whitepaper link below:
-
-##Choose the language you want to download by click the text:
+## Choose the language you want to download by click the text:
 
   - English: [CharityOasis WhitePaper(English).pdf](https://github.com/user-attachments/files/16149956/CharityOasis.WhitePaper.English.pdf)
 
