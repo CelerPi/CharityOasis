@@ -2,18 +2,33 @@
 
 We will open-source everything here. Please feel free to check it whenever you want.
 
-## Choose the language you want to download by click the text:
+CharityOasis is a cryptocurrency designed to enhance transparency, reduce transaction costs, and build donor trust to promote global philanthropy. Our token (CHAT) will serve as the primary transaction medium and incentive mechanism to achieve these goals. Unlike traditional charity platforms, CharityOasis provides tangible incentives to donors, ensuring exponential growth in donor participation.
 
-  - English: [CharityOasis WhitePaper(English).pdf](https://github.com/user-attachments/files/16149956/CharityOasis.WhitePaper.English.pdf)
+## You can find more info by read our [Website](https://charityoasis.xyz) and whitepaper.
 
-  - Deutsch: [CharityOasis WhitePaper(Deutsch).pdf](https://github.com/user-attachments/files/16149959/CharityOasis.WhitePaper.German.pdf)
+ - Choose the language you want to download our project whitepaper by click the text:
 
-  - Japanese: [CharityOasis WhitePaper(日本語).pdf](https://github.com/user-attachments/files/16149961/CharityOasis.WhitePaper.Japan.pdf)
+      - English:
+        
+        [CharityOasis WhitePaper(English).pdf](https://github.com/user-attachments/files/16149956/CharityOasis.WhitePaper.English.pdf)
 
-  - Español: [CharityOasis WhitePaper(Español).pdf](https://github.com/user-attachments/files/16150012/CharityOasis.WhitePaper.Spanish.pdf)
+      - Deutsch:
+        
+        [CharityOasis WhitePaper(Deutsch).pdf](https://github.com/user-attachments/files/16149959/CharityOasis.WhitePaper.German.pdf)
 
-  - 繁体中文: [CharityOasis WhitePaper(繁体中文).pdf](https://github.com/user-attachments/files/16150077/CharityOasis.WhitePaper.TD.Chinese.pdf)
+      - Japanese:
+        
+        [CharityOasis WhitePaper(日本語).pdf](https://github.com/user-attachments/files/16149961/CharityOasis.WhitePaper.Japan.pdf)
+    
+      - Español:
+        
+        [CharityOasis WhitePaper(Español).pdf](https://github.com/user-attachments/files/16150012/CharityOasis.WhitePaper.Spanish.pdf)
 
-  - 简体中文: [CharityOasis WhitePaper(简体中文).pdf](https://github.com/user-attachments/files/16150137/CharityOasis.WhitePaper.SP.Chinese.pdf)
+      - 繁体中文:
+        
+        [CharityOasis WhitePaper(繁体中文).pdf](https://github.com/user-attachments/files/16150077/CharityOasis.WhitePaper.TD.Chinese.pdf)
 
-## Or you can just view it from the source
+      - 简体中文:
+        
+        [CharityOasis WhitePaper(简体中文).pdf](https://github.com/user-attachments/files/16150137/CharityOasis.WhitePaper.SP.Chinese.pdf)
+
