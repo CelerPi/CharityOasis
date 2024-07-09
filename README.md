@@ -6,14 +6,14 @@ We will open-source everything here. Please feel free to check it whenever you w
 
   - English: [CharityOasis WhitePaper(English).pdf](https://github.com/user-attachments/files/16149956/CharityOasis.WhitePaper.English.pdf)
 
-  - Germanny: [CharityOasis WhitePaper(German).pdf](https://github.com/user-attachments/files/16149959/CharityOasis.WhitePaper.German.pdf)
+  - Deutsch: [CharityOasis WhitePaper(Deutsch).pdf](https://github.com/user-attachments/files/16149959/CharityOasis.WhitePaper.German.pdf)
 
-  - Japanese: [CharityOasis WhitePaper(Japan).pdf](https://github.com/user-attachments/files/16149961/CharityOasis.WhitePaper.Japan.pdf)
+  - Japanese: [CharityOasis WhitePaper(日本語).pdf](https://github.com/user-attachments/files/16149961/CharityOasis.WhitePaper.Japan.pdf)
 
-  - Spanish: [CharityOasis WhitePaper(Spanish).pdf](https://github.com/user-attachments/files/16150012/CharityOasis.WhitePaper.Spanish.pdf)
+  - Español: [CharityOasis WhitePaper(Español).pdf](https://github.com/user-attachments/files/16150012/CharityOasis.WhitePaper.Spanish.pdf)
 
-  - Traditional Chinese: [CharityOasis WhitePaper(TD Chinese).pdf](https://github.com/user-attachments/files/16150077/CharityOasis.WhitePaper.TD.Chinese.pdf)
+  - 繁体中文: [CharityOasis WhitePaper(繁体中文).pdf](https://github.com/user-attachments/files/16150077/CharityOasis.WhitePaper.TD.Chinese.pdf)
 
-  - Simplify Chinese: [CharityOasis WhitePaper(SP Chinese).pdf](https://github.com/user-attachments/files/16150137/CharityOasis.WhitePaper.SP.Chinese.pdf)
+  - 简体中文: [CharityOasis WhitePaper(简体中文).pdf](https://github.com/user-attachments/files/16150137/CharityOasis.WhitePaper.SP.Chinese.pdf)
 
 ## Or you can just view it from the source
