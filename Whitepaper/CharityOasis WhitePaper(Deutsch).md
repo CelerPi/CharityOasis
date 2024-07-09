@@ -1,273 +1,273 @@
-# CharityOasis Libro Blanco
+# CharityOasis WhitePaper
 
-## Introducción
+## Einführung
 
-CharityOasis es una criptomoneda diseñada para promover el desarrollo de la caridad global a través de la mejora de la transparencia, la reducción de los costos de transacción y el establecimiento de la confianza de los donantes. Nuestro token (CHAT) servirá como el principal medio de transacción y mecanismo de incentivos para ayudar a alcanzar estos objetivos. A diferencia de las plataformas de caridad tradicionales, CharityOasis proporciona incentivos tangibles a los donantes, asegurando que la participación de los donantes crezca exponencialmente.
+CharityOasis ist eine Kryptowährung, die entwickelt wurde, um Transparenz zu erhöhen, Transaktionskosten zu senken und das Vertrauen der Spender zu stärken, um die globale Philanthropie zu fördern. Unser Token (CHAT) wird als primäres Transaktionsmedium und Anreizmechanismus dienen, um diese Ziele zu erreichen. Im Gegensatz zu traditionellen Wohltätigkeitsplattformen bietet CharityOasis greifbare Anreize für Spender, was ein exponentielles Wachstum der Spenderbeteiligung sicherstellt.
 
-## Antecedentes
+## Hintergrund
 
-En una era donde los avances tecnológicos están remodelando continuamente las normas sociales, la aplicación de la tecnología blockchain y las criptomonedas en el ámbito de la caridad está adquiriendo una importancia creciente. Según datos del Banco Mundial, las donaciones caritativas globales han disminuido en los últimos años, siendo la falta de transparencia y los altos costos de transacción las principales razones. La tecnología blockchain puede resolver estos problemas mediante sus características de inmutabilidad y transparencia pública.
+In einer Zeit, in der technologische Fortschritte ständig gesellschaftliche Normen neu gestalten, werden Blockchain-Technologie und Kryptowährungen im Wohltätigkeitssektor immer wichtiger. Laut Daten der Weltbank sind die globalen wohltätigen Spenden in den letzten Jahren zurückgegangen, hauptsächlich aufgrund mangelnder Transparenz und hoher Transaktionskosten. Die Blockchain-Technologie kann diese Probleme mit ihrer Unveränderlichkeit und öffentlichen Transparenz angehen.
 
-## Declaración de Problemas
+## Problemstellung
 
-El sector de la caridad enfrenta actualmente los siguientes problemas principales:
+Der aktuelle Wohltätigkeitssektor steht vor mehreren großen Herausforderungen:
 
-### Falta de Transparencia
+### Mangel an Transparenz
 
-Según un informe de las Naciones Unidas, aproximadamente el 30% de las donaciones caritativas globales no se pueden rastrear efectivamente, lo que reduce la confianza de los donantes.
+Laut den Vereinten Nationen können etwa 30% der globalen wohltätigen Spenden nicht effektiv nachverfolgt werden, was zu einem Rückgang des Vertrauens der Spender führt.
 
-![Datos de Transparencia de Donaciones Caritativas Globales](path/to/your/graph1.png)
+![Transparenzdaten zu globalen wohltätigen Spenden](path/to/your/graph1.png)
 
-### Altos Costos de Transacción
+### Hohe Transaktionskosten
 
-Datos del Banco Mundial muestran que los costos de transacción de donaciones transfronterizas tradicionales pueden llegar al 7-10%, lo que reduce significativamente la eficiencia del uso de los fondos.
+Daten der Weltbank zeigen, dass die Transaktionskosten für traditionelle grenzüberschreitende Spenden zwischen 7-10% liegen, was die Effizienz der Mittelverwendung erheblich verringert.
 
-![Datos de Costos de Transacción Transfronteriza](path/to/your/graph2.png)
+![Daten zu grenzüberschreitenden Transaktionskosten](path/to/your/graph2.png)
 
-### Falta de Incentivos para Donar
+### Unzureichende Spendenanreize
 
-Las plataformas de caridad actuales carecen de mecanismos de incentivos efectivos, lo que no logra movilizar completamente el entusiasmo de los donantes potenciales. Según datos de Giving USA, el monto total de donaciones caritativas en Estados Unidos ha crecido lentamente en los últimos años, con una disminución en la participación de los donantes.
+Bestehende Wohltätigkeitsplattformen verfügen im Allgemeinen nicht über effektive Anreizmechanismen und können das Potenzial der Spender nicht voll ausschöpfen. Laut Giving USA ist der Gesamtbetrag der wohltätigen Spenden in den Vereinigten Staaten in den letzten Jahren nur langsam gewachsen, bei gleichzeitig sinkender Spenderbeteiligung.
 
-![Tendencias de Donaciones Caritativas en EE.UU.](path/to/your/graph3.png)
+![Trends bei wohltätigen Spenden in den USA](path/to/your/graph3.png)
 
-## Visión y Misión
+## Vision und Mission
 
-### Visión
+### Vision
 
-CharityOasis se propone crear una plataforma de crowdfunding caritativa basada en tecnología blockchain, donde los usuarios que posean tokens puedan tomar decisiones de votación, asegurando que cada donación ayude efectivamente a quienes lo necesitan.
+CharityOasis strebt an, eine Blockchain-basierte Crowdfunding-Plattform für Wohltätigkeitsorganisationen zu schaffen, bei der Token-Inhaber abstimmen, um sicherzustellen, dass jede Spende effektiv den Bedürftigen hilft.
 
-### Misión
+### Mission
 
-A través de un mecanismo de incentivos con tokens, procesos de auditoría estrictos y un modelo de crowdfunding transparente, aumentaremos la participación y el entusiasmo de los donantes, resolviendo el problema de la falta de incentivos para donar.
+Durch die Implementierung eines Token-Anreizmechanismus, strenger Überprüfungsverfahren und eines transparenten Crowdfunding-Modells wollen wir die Spenderbeteiligung und -begeisterung erhöhen und das Problem der unzureichenden Spendenanreize angehen.
 
-## Solución Específica
+## Lösungen
 
-### Plataforma de Crowdfunding Caritativo
+### Wohltätige Crowdfunding-Plattform
 
-CharityOasis se inspirará en el modelo de crowdfunding de Indiegogo, permitiendo que los solicitantes presenten proyectos de crowdfunding. Según datos de Indiegogo, la tasa de éxito promedio de los proyectos de crowdfunding exitosos es del 30%, siendo los proyectos de asistencia médica y emergencia los más exitosos. Después de una auditoría estricta, los proyectos elegibles se someterán a una segunda revisión y votación por parte de los usuarios que posean tokens.
+CharityOasis wird das Crowdfunding-Modell von Indiegogo übernehmen, das es Antragstellern ermöglicht, Crowdfunding-Projekte einzureichen. Laut Daten von Indiegogo liegt die durchschnittliche Erfolgsquote für erfolgreiche Crowdfunding-Projekte bei 30%, wobei medizinische und Nothilfeprojekte die höchsten Erfolgsraten haben. Nach einer strengen Überprüfung werden berechtigte Projekte zur Zweitprüfung und Abstimmung durch Token-Inhaber eingereicht.
 
-![Datos de Éxito de Crowdfunding en Indiegogo](path/to/your/graph4.png)
+![Erfolgsrate von Indiegogo](path/to/your/graph4.png)
 
-- **Votación con Tokens**: Los usuarios que posean tokens CHAT pueden usar sus tokens para votar y decidir qué proyectos de crowdfunding se publicarán. El proceso de votación es transparente y todos los registros de votación se publican en la blockchain. Según datos de CoinMarketCap, los mecanismos de votación basados en blockchain ya se han aplicado con éxito en varios proyectos, mejorando la participación de la comunidad.
+- **Token-Abstimmung**: Inhaber von CHAT-Token können ihre Token verwenden, um über welche Crowdfunding-Projekte abgestimmt wird. Der Abstimmungsprozess ist transparent, und alle Abstimmungsprotokolle sind öffentlich auf der Blockchain verfügbar. Laut CoinMarketCap wurden Blockchain-Abstimmungsmechanismen erfolgreich in mehreren Projekten angewendet, was die Beteiligung der Gemeinschaft erhöht.
 
-![Datos de Mecanismo de Votación Blockchain](path/to/your/graph5.png)
+  ![Blockchain-Abstimmungsmechanismus](path/to/your/graph5.png)
 
-- **Mecanismo de Donación y Recompensas**: Los usuarios usan sCHAT, que se convierte según la cantidad de tokens que poseen, para donar. sCHAT solo se muestra como una cantidad y no tiene valor en efectivo. Según la cantidad de sCHAT donada, los donantes recibirán una recompensa proporcional en tokens CHAT del fondo de Airdrop. Según datos de Coindesk, mecanismos de incentivos similares ya han demostrado ser efectivos en varios proyectos blockchain.
+- **Spenden- und Belohnungsmechanismus**: Benutzer spenden mit sCHAT, einer nicht-monetären Darstellung ihrer gehaltenen Token. Basierend auf der Menge an gespendetem sCHAT erhalten Spender eine proportionale Belohnung in CHAT-Token aus dem Airdrop-Pool. Laut Coindesk haben sich ähnliche Anreizmechanismen in verschiedenen Blockchain-Projekten als effektiv erwiesen.
 
-![Datos de Mecanismo de Donación y Recompensas](path/to/your/graph6.png)
+  ![Spenden- und Belohnungsmechanismus](path/to/your/graph6.png)
 
-- **Programa de Supervisores Globales**: Cada usuario que posea tokens CHAT puede solicitar ser supervisor de los proyectos de crowdfunding en su área. Los supervisores son responsables de monitorear el progreso del proyecto y asegurar que los fondos de crowdfunding se utilicen para su propósito previsto. Los supervisores deben presentar informes de progreso regularmente, que se publicarán en la plataforma para garantizar la transparencia.
+- **Globales Aufsichtsprogramm**: Jeder CHAT-Token-Inhaber kann sich als Aufseher für Crowdfunding-Projekte in seiner Region bewerben. Aufseher verfolgen den Fortschritt der Projekte und stellen sicher, dass die Mittel für ihre vorgesehenen Zwecke verwendet werden. Sie müssen regelmäßig Fortschrittsberichte einreichen, die öffentlich auf der Plattform verfügbar sein werden, um Transparenz zu gewährleisten.
 
-![Datos de Mecanismo de Supervisión](path/to/your/graph7.png)
+  ![Überwachungsmechanismus](path/to/your/graph7.png)
 
-### Integración de Productos Físicos y NFT
+### Integration mit physischen Gütern und NFTs
 
-- **Tienda en Línea**:
-  - **Venta de Ropa Física**: Venta de ropa física en la tienda en línea, como camisas de estilo A, pantalones de estilo B, zapatos de estilo C, sombreros de estilo D, collares de estilo E y anillos de estilo F.
-  - **NFT Correspondientes**: Los usuarios que compren ropa física recibirán un NFT correspondiente. Estos NFT se pueden usar para decorar sus personajes virtuales.
-- **Creación de Personajes Virtuales y Equipamiento de NFT**
-  - **Creación de Personajes Virtuales**: Cada usuario tiene un personaje virtual en la plataforma que puede personalizar comprando y equipando artículos NFT.
-  - **Artículos NFT**: Los usuarios pueden equipar sus personajes virtuales con los artículos NFT comprados, mejorando la apariencia y la puntuación de rareza de sus personajes. Cada artículo tiene una puntuación de rareza diferente, clasificada como común, raro, épico y legendario.
-  - **Sistema de Equipamiento**: Los usuarios pueden equipar y cambiar los artículos NFT en sus personajes virtuales en cualquier momento.
-  - **Sistema de Puntuación de Rareza**: La puntuación total de rareza se calcula en función de los artículos NFT equipados por el usuario.
-  - **Sistema de Clasificación**: Clasificación semanal, mensual y anual de todos los usuarios según su puntuación total de rareza. Los usuarios con las puntuaciones más altas recibirán recompensas en tokens.
-  - **Obtención de Puntos**: Los usuarios obtendrán puntos al gastar tokens en la tienda para comprar ropa física. Cuanto mayor sea el gasto, más puntos obtendrán.
-  - **Canje de Puntos**: Los usuarios pueden canjear puntos por tokens o productos exclusivos de la tienda.
+- **Online-Shop**:
+  - **Verkauf von Kleidung**: Verkauf von physischen Kleidungsstücken im Online-Shop, wie Hemden, Hosen, Schuhe, Hüte, Halsketten und Ringe.
+  - **Entsprechende NFTs**: Benutzer erhalten NFTs, die den gekauften physischen Kleidungsstücken entsprechen und zur Dekoration ihrer virtuellen Avatare verwendet werden können.
+- **Virtuelle Avatare und NFT-Ausrüstung**
+  - **Avatar-Erstellung**: Jeder Benutzer hat einen virtuellen Avatar auf der Plattform, der mit NFT-Artikeln angepasst werden kann.
+  - **NFT-Artikel**: NFTs, die durch den Kauf physischer Güter erworben wurden, können auf virtuellen Avataren ausgestattet werden, um deren Erscheinungsbild und Seltenheitswert zu erhöhen. Jeder Artikel hat eine unterschiedliche Seltenheitsbewertung, die als gewöhnlich, selten, episch oder legendär eingestuft wird.
+  - **Ausrüstungssystem**: Benutzer können ihre Avatare mit NFT-Artikeln ausstatten, um deren Erscheinungsbild und Seltenheitsbewertung zu verbessern. Alle NFT-Artikel sind abnehmbar, sodass Benutzer sie jederzeit ändern und neu anordnen können.
+  - **Seltenheitsbewertungssystem**: Die Gesamtseltenheitsbewertung wird basierend auf den ausgestatteten NFT-Artikeln berechnet. Die kombinierten Seltenheitsbewertungen aller Artikel bilden die Gesamtbewertung des Benutzers.
+  - **Ranglistensystem**: Wöchentliche, monatliche und jährliche Ranglisten bewerten Benutzer basierend auf ihren Gesamtseltenheitsbewertungen. Top-Platzierte Benutzer erhalten unterschiedliche Stufen von Token-Belohnungen.
+  - **Punkteansammlung**: Benutzer sammeln Punkte für den Kauf physischer Artikel mit Token. Je mehr sie ausgeben, desto mehr Punkte sammeln sie.
+  - **Punkteeinlösung**: Benutzer können Punkte gegen Token oder exklusive Artikel im Shop einlösen.
 
-- **Creación de un Mercado de NFT**: Los usuarios pueden comprar y vender NFT en el mercado de NFT de la plataforma. La plataforma cobrará una comisión por cada transacción, generando ingresos adicionales.
+- **Erstellen eines NFT-Marktplatzes**: Benutzer können NFTs auf dem NFT-Marktplatz der Plattform kaufen und verkaufen. Die Plattform erhebt eine Transaktionsgebühr, die zusätzliche Einnahmen generiert.
 
-### Distribución de Ingresos y Apoyo a Proyectos
+### Einnahmenverteilung und Projektunterstützung
 
-La tienda en línea de CHAT destinará el 20% de sus ingresos trimestrales al funcionamiento y apoyo del proyecto:
+Jedes Quartal wird der Online-Shop 20% seines Umsatzes für Projektoperationen und Unterstützung zuweisen:
 
-- 5% para la recompra y quema de tokens, reduciendo la oferta en el mercado y estabilizando el valor del token.
-- 5% al fondo de incentivos permanentes para apoyar los mecanismos de incentivos y recompensas de la plataforma.
-- 10% al fondo de caridad para apoyar varios proyectos caritativos.
+- 5% für Token-Rückkauf und Verbrennung, um die Marktnachfrage zu reduzieren und den Token-Wert zu stabilisieren.
+- 5% in den permanenten Anreizpool für Plattformanreize und Belohnungen.
+- 10% in den Wohltätigkeitsfonds für die Unterstützung verschiedener wohltätiger Projekte.
 
-## Modelo Económico de los Tokens
+## Tokenomics
 
-### Suministro de Tokens
+### Token-Versorgung
 
-- **Suministro Total**: 10 mil millones de tokens
-- **Preventa y Venta Privada**: 40% (4 mil millones)
-- **Equipo y Asesores**: 5% (500 millones) (bloqueo de 4 años)
-- **Recompensas de la Comunidad y Gobernanza**: 15% (1.5 mil millones) (recompensas de airdrop y gobernanza)
-- **Proyectos Caritativos**: 25% (2.5 mil millones)
-- **Fondo de Liquidez**: 10% (1 mil millones)
-- **Fondo de Reserva**: 5% (500 millones)
+- **Gesamtversorgung**: 10 Milliarden Token
+- **Vorverkauf und private Investoren**: 40% (4 Milliarden)
+- **Team und Berater**: 5% (500 Millionen) (4 Jahre Sperrfrist)
+- **Gemeinschaftsbelohnungen und Governance**: 15% (1,5 Milliarden) (Airdrop und Governance-Belohnungen)
+- **Wohltätigkeitsprojekte**: 25% (2,5 Milliarden)
+- **Liquiditätspool**: 10% (1 Milliarde)
+- **Reservefonds**: 5% (500 Millionen)
 
-### Mecanismo de Recompensas por Posesión
+### Halteprämienmechanismus
 
-El mecanismo de recompensas por posesión de CHAT incentiva a los usuarios a mantener sus tokens a largo plazo, aumentando la estabilidad del token y la participación de los usuarios. El mecanismo toma instantáneas diarias de las tenencias de los usuarios y distribuye recompensas proporcionalmente. Las recompensas se calculan diariamente y se distribuyen en períodos específicos (diariamente o semanalmente).
+Der Halteprämienmechanismus von CHAT soll Benutzer dazu anregen, Token langfristig zu halten, die Token-Stabilität zu verbessern und die Benutzerbeteiligung zu erhöhen. Der Mechanismus nimmt tägliche Schnappschüsse der Benutzerbestände und verteilt die Belohnungen proportional. Halteprämien werden täglich berechnet und regelmäßig (z.B. täglich oder wöchentlich) verteilt.
 
-#### Ventajas del Mecanismo de Recompensas por Posesión
+#### Vorteile des Halteprämienmechanismus
 
-1. **Incentivo a la Posesión a Largo Plazo**: La distribución diaria de recompensas fomenta la posesión a largo plazo de los tokens, reduciendo el comportamiento especulativo a corto plazo.
-2. **Estabilidad del Mercado**: La distribución gradual de recompensas reduce la volatilidad en el mercado al evitar la liberación masiva de tokens.
-3. **Equidad**: Las recompensas se ajustan dinámicamente según las tenencias reales de los usuarios, garantizando una distribución justa.
+1. **Ermutigt langfristiges Halten**: Die tägliche Belohnungsverteilung motiviert Benutzer, Token langfristig zu halten und reduziert kurzfristiges spekulatives Verhalten.
+2. **Marktstabilität**: Die schrittweise Belohnungsverteilung verringert die Marktvolatilität durch große Token-Freigaben und erhält die relative Preisstabilität.
+3. **Gerechtigkeit**: Die dynamische Belohnungsanpassung basierend auf den tatsächlichen Beständen stellt eine faire und angemessene Belohnungsverteilung sicher.
 
-#### Cálculo y Distribución de Recompensas
+#### Belohnungsberechnung und -verteilung
 
-1. **Mecanismo de Instantáneas**: Se toman instantáneas diarias de las tenencias de los usuarios.
-2. **Cálculo de Recompensas**: Las recompensas se calculan en función de la proporción de tenencias de cada usuario. La tasa de recompensa diaria = Tasa anual / 365. Por ejemplo, si la tasa anual inicial es del 10%, la tasa diaria sería 10% / 365 ≈ 0.0274%.
-3. **Distribución Periódica**: Las recompensas se distribuyen diariamente o semanalmente a las billeteras de los usuarios.
+1. **Schnappschussmechanismus**: Tägliche Schnappschüsse zeichnen die Benutzerbestände auf.
+2. **Belohnungsberechnung**: Tägliche Belohnungsrate = jährlicher Zinssatz / 365. Beispielsweise ergibt ein anfänglicher jährlicher Zinssatz von 10% eine tägliche Belohnungsrate von 10% / 365 ≈ 0,0274%.
+3. **Periodische Verteilung**: Belohnungen werden täglich oder wöchentlich verteilt, und Benutzer können ihre Belohnungen jederzeit überprüfen und einfordern.
 
-#### Pasos de Implementación
+#### Implementierungsschritte
 
-1. **Configuración de la Tasa de Recompensa**: La tasa anual inicial se establece en 10% y se reduce 1% cada año, con un mínimo del 5%. La tasa diaria se calcula como Tasa anual / 365.
-2. **Despliegue del Contrato Inteligente**: Desarrollo y despliegue de contratos inteligentes responsables de las instantáneas, el cálculo de recompensas y la distribución.
-3. **Distribución de Recompensas**: Las recompensas se distribuyen diariamente o semanalmente a las billeteras de los usuarios.
+1. **Belohnungsrate festlegen**: Der anfängliche jährliche Zinssatz beträgt 10%, der jährlich um 1% auf mindestens 5% gesenkt wird. Tägliche Belohnungsrate = jährlicher Zinssatz / 365.
+2. **Smart Contract bereitstellen**: Entwicklung und Bereitstellung von Smart Contracts für Schnappschüsse, Belohnungsberechnung und -verteilung.
+3. **Belohnungsverteilung**: Belohnungen werden periodisch (z.B. täglich oder wöchentlich) verteilt, und Benutzer können ihre Belohnungen jederzeit einfordern.
 
-### Recompensas de Airdrop y Gobernanza
+### Airdrop- und Governance-Belohnungen
 
-- **Recompensas de Airdrop**: Airdrops mensuales para recompensar a los usuarios activos y tenedores a largo plazo.
-- **Recompensas de Gobernanza**: Recompensas para los usuarios que participen en votaciones y propuestas.
+- **Airdrop-Belohnungen**: Monatliche Airdrops, um aktive Benutzer und langfristige Inhaber zu belohnen.
+- **Governance-Belohnungen**: Benutzer, die an Abstimmungen und Vorschlägen teilnehmen, erhalten Belohnungen.
 
-## Plan de Distribución de Fondos de la Preventa
+## Plan zur Verwendung der Vorverkaufsmittel
 
-CHAT garantiza la transparencia y eficiencia en el uso de los fondos. Todos los usos de fondos se divulgarán periódicamente y estarán sujetos a supervisión comunitaria.
+CHAT stellt die Transparenz und Effizienz der Mittelverwendung sicher. Alle Mittelverwendungen werden regelmäßig offengelegt und unterliegen der Aufsicht der Gemeinschaft.
 
-- **Desarrollo Técnico**: 20%, para el desarrollo y mantenimiento de tokens, incluyendo el desarrollo de contratos inteligentes y herramientas de transparencia de datos. Estos fondos se utilizarán para pagar salarios a los desarrolladores, comprar hardware y software necesarios, y otros gastos relacionados con la tecnología.
-- **Marketing**: 10%, para la promoción del proyecto y la construcción de la comunidad, atrayendo más usuarios y socios. Estos fondos se utilizarán para publicidad, actividades de promoción, establecimiento de relaciones con socios, etc.
-- **Cumplimiento Legal**: 10%, para garantizar la legalidad del proyecto en las principales jurisdicciones, contratando a asesores legales de primer nivel. Estos fondos se utilizarán para pagar gastos legales y asegurar el cumplimiento de las regulaciones pertinentes.
-- **Costos Operativos**: 10%, para las operaciones diarias del proyecto, incluyendo salarios del equipo, alquiler de oficinas, etc. Estos fondos se utilizarán para pagar los gastos operativos diarios del equipo.
-- **Fondo de Liquidez**: 50%, para asegurar la liquidez del token en los intercambios, permitiendo que los usuarios compren y vendan tokens fácilmente.
+- **Technologische Entwicklung**: 20%, für die Token-Entwicklung und -Wartung, einschließlich Smart Contract-Entwicklung und Daten-Transparenz-Tools. Dazu gehören die Gehälter der Entwickler, notwendige Hardware- und Softwarekäufe sowie andere technische Ausgaben.
+- **Marketing**: 10%, für die Projektförderung und den Aufbau der Gemeinschaft, um mehr Benutzer und Partner anzuziehen. Dazu gehören Werbung, Marketingkampagnen und die Einrichtung von Partnerschaften.
+- **Rechtliche Konformität**: 10%, um sicherzustellen, dass das Projekt den wichtigsten Rechtsordnungen entspricht, mit erstklassigen Rechtsberatern, die professionelle Beratung bieten. Dazu gehören Anwaltskosten, um die Einhaltung der relevanten Gesetze und Vorschriften sicherzustellen und die Plattform und die Benutzer zu schützen.
+- **Betriebskosten**: 10%, für den täglichen Betrieb, einschließlich der Gehälter des Teams und der Büromiete. Dazu gehören die Löhne des Personals, die Büromiete, tägliche Büromaterialien usw.
+- **Einspeisung in den Liquiditätspool**: 50%, um die Token-Liquidität auf den Börsen sicherzustellen und den Benutzern den bequemen Kauf und Verkauf von Token zu ermöglichen.
 
-## Equipo Principal
+## Kernteam
 
-CHAT está liderado por un equipo de profesionales con amplia experiencia en blockchain y caridad. Por razones de privacidad y principios de descentralización, el equipo ha optado por permanecer en el anonimato. Los miembros del equipo tienen experiencia significativa en blockchain y caridad, asegurando los más altos estándares técnicos y operativos.
+CHAT wird von einem Team von Fachleuten mit umfassender Erfahrung in den Bereichen Blockchain und Philanthropie geleitet. Aus Datenschutz- und Dezentralisierungsgründen wählt das Team die Anonymität. Die Teammitglieder haben reiche Erfahrung in den Bereichen Blockchain und Philanthropie, um die höchsten Standards in Technologie und Betrieb zu gewährleisten.
 
-## Hoja de Ruta
+## Roadmap
 
-El desarrollo de CHAT se divide en tres fases principales, cada una con objetivos y tareas claras para asegurar el progreso y crecimiento continuo del proyecto.
+Die Entwicklung von CHAT ist in drei Hauptphasen unterteilt, jede mit klaren Zielen und Aufgaben, um einen reibungslosen Fortschritt und kontinuierliches Wachstum zu gewährleisten.
 
-### Fase 1: Lanzamiento y Promoción del Proyecto
+### Phase 1: Projektinitiierung und -förderung
 
-- Publicación del concepto del proyecto y el libro blanco.
-- Lanzamiento del sitio web oficial.
-- Formación del equipo principal.
-- Diseño del marco técnico.
-- Marketing y construcción de la comunidad.
+- Veröffentlichung des Projektkonzepts und des Whitepapers
+- Start der offiziellen Website
+- Bildung des Kernteams
+- Design des technischen Rahmens
+- Marketing und Gemeinschaftsaufbau
 
-### Fase 2: Desarrollo y Pruebas
+### Phase 2: Entwicklung und Testen
 
-- Desarrollo y pruebas de contratos inteligentes.
-- Desarrollo de front-end y back-end.
-- Despliegue y pruebas de la red de pruebas.
+- Entwicklung und Testen von Smart Contracts
+- Frontend- und Backend-Entwicklung
+- Bereitstellung und Testen des Testnets
 
-### Fase 3: Lanzamiento y Desarrollo Continuo
+### Phase 3: Start und kontinuierliche Entwicklung
 
-- Despliegue del contrato en la red principal de Polygon.
-- Actividades de preventa y venta privada.
-- Expansión de funcionalidades.
-- Expansión de socios globales.
-- Optimización y actualizaciones continuas.
+- Bereitstellung des Polygon-Mainnets
+- Vorverkaufs- und private Verkaufsevents
+- Funktionserweiterung
+- Ausbau globaler Partnerschaften
+- Kontinuierliche Optimierung und Upgrades
 
-## Cumplimiento Legal
+## Rechtliche Konformität
 
-CharityOasis se compromete a garantizar la legalidad y conformidad de todas sus actividades operativas, protegiendo los derechos de los usuarios e inversores. Cumplimos estrictamente con las leyes y regulaciones en todas las jurisdicciones principales.
+CharityOasis verpflichtet sich, die Legalität und Konformität aller Operationen zu gewährleisten und Benutzer und Investoren zu schützen. Wir halten uns strikt an die Gesetze und Vorschriften der wichtigsten Rechtsordnungen und ergreifen folgende Maßnahmen:
 
-### 1. Equipo de Asesoría Legal
+### 1. Rechtsteam
 
-Colaboramos con asesores legales de primer nivel para asegurar la conformidad del proyecto en todas las jurisdicciones. Nuestro equipo de asesores legales está compuesto por profesionales con amplia experiencia en regulación de blockchain y criptomonedas.
+Wir arbeiten mit erstklassigen Rechtsberatern zusammen, um die Projektkonformität in den wichtigsten Rechtsordnungen sicherzustellen. Unser Team besteht aus Fachleuten mit umfassendem Wissen über Blockchain- und Kryptowährungsregulierungen.
 
-### 2. Registro y Licencias
+### 2. Registrierung und Lizenzierung
 
-CharityOasis se registrará y obtendrá las licencias necesarias en varias jurisdicciones para asegurar la conformidad global de nuestras operaciones. Esto incluye requisitos de regulación financiera, protección de datos, anti-lavado de dinero (AML) y conocer a su cliente (KYC).
+CharityOasis wird sich in mehreren Rechtsordnungen registrieren und die erforderlichen Lizenzen erhalten, um die globale Konformität sicherzustellen, einschließlich Finanzregulierung, Datenschutz, AML- und KYC-Anforderungen.
 
-### 3. Anti-Lavado de Dinero (AML) y Conocer a su Cliente (KYC)
+### 3. Anti-Geldwäsche (AML) und Know Your Customer (KYC)
 
-Implementamos políticas estrictas de AML y KYC para prevenir actividades ilegales y flujos de dinero. Todos los usuarios deben completar la verificación KYC en nuestra plataforma, proporcionando documentos de identificación y otra información necesaria. Nuestras políticas de AML incluyen:
+Wir setzen strikte AML- und KYC-Richtlinien durch, um illegale Aktivitäten und Geldflüsse zu verhindern. Alle Benutzer müssen die KYC-Verifizierung abschließen und Identifikationsdokumente und notwendige Informationen bereitstellen. Unsere AML-Politik umfasst:
 
-- Evaluación y monitoreo de riesgos para usuarios.
-- Revisión y actualización periódica de las políticas de AML y KYC.
-- Asegurar que todas las transacciones cumplan con las leyes y regulaciones globales de anti-lavado de dinero.
+- Risikoabschätzung und Überwachung der Benutzer.
+- Regelmäßige Überprüfung und Aktualisierung der AML- und KYC-Richtlinien.
+- Sicherstellung, dass alle Transaktionen den globalen AML-Gesetzen und -Vorschriften entsprechen.
 
-### 4. Protección de Datos y Privacidad
+### 4. Datenschutz und Privatsphäre
 
-Nos comprometemos a proteger la privacidad y seguridad de los datos de los usuarios, cumpliendo con las regulaciones principales de protección de datos a nivel global, como el Reglamento General de Protección de Datos (GDPR) de la UE y otras leyes relevantes. Nuestras medidas de protección de datos incluyen:
+Wir schützen die Privatsphäre und Sicherheit der Benutzerdaten und halten uns an die wichtigsten globalen Datenschutzbestimmungen wie die DSGVO der EU. Unsere Maßnahmen umfassen:
 
-- Almacenamiento y transmisión cifrada de datos de usuarios.
-- Implementación de controles de acceso y medidas de seguridad estrictas.
-- Auditorías y evaluaciones de seguridad periódicas para asegurar la integridad y confidencialidad de los datos.
+- Verschlüsselung der Benutzerdatenspeicherung und -übertragung.
+- Implementierung strenger Zugriffskontrollen und Sicherheitsmaßnahmen.
+- Regelmäßige Sicherheitsüberprüfungen und -bewertungen, um die Datenintegrität und Vertraulichkeit sicherzustellen.
 
-### 5. Transparencia Financiera y Auditoría
+### 5. Finanzielle Transparenz und Prüfung
 
-Realizaremos auditorías financieras periódicas para asegurar la transparencia y legalidad en el uso de los fondos. Los informes de auditoría se publicarán y estarán sujetos a la supervisión de la comunidad y el público. Nuestras medidas de transparencia financiera incluyen:
+Wir führen regelmäßige finanzielle Prüfungen durch, um die Transparenz und Legalität aller Mittelverwendungen sicherzustellen. Prüfungsberichte werden öffentlich zugänglich gemacht und unterliegen der Aufsicht der Gemeinschaft und der Öffentlichkeit. Unsere Maßnahmen umfassen:
 
-- Publicación regular de informes financieros detallados, incluyendo ingresos, gastos y uso de fondos.
-- Invitación a auditores externos independientes para realizar auditorías anuales y publicación de los resultados.
+- Regelmäßige Veröffentlichung detaillierter Finanzberichte, einschließlich Einnahmen, Ausgaben und Mittelverwendungen.
+- Engagement unabhängiger Drittprüfungsunternehmen für jährliche Prüfungen und Veröffentlichung der Ergebnisse.
 
-### 6. Gestión de Riesgos
+### 6. Risikomanagement
 
-Contamos con un sistema integral de gestión de riesgos para identificar y abordar cualquier riesgo que pueda afectar la operación del proyecto. Nuestras estrategias de gestión de riesgos incluyen:
+Wir haben ein umfassendes Risikomanagementsystem, um potenzielle Risiken zu identifizieren und anzugehen, die die Projektoperationen betreffen könnten. Unsere Strategie umfasst:
 
-- Evaluaciones de riesgos periódicas para identificar posibles riesgos legales y de conformidad.
-- Desarrollo de medidas de respuesta y planes de contingencia para asegurar la continuidad y estabilidad del proyecto.
-- Establecimiento de mecanismos internos de auditoría y supervisión para garantizar la conformidad operativa.
+- Regelmäßige Risikoabschätzungen zur Identifizierung potenzieller rechtlicher und konformitätsbezogener Risiken.
+- Entwicklung von Minderungsmaßnahmen und Notfallplänen zur Sicherstellung der Kontinuität und Stabilität.
+- Etablierung interner Prüfungs- und Überwachungsmechanismen zur Sicherstellung der Konformität.
 
-### 7. Participación y Transparencia de la Comunidad
+### 7. Gemeinschaftsbeteiligung und Transparenz
 
-Fomentamos que los miembros de la comunidad participen en la toma de decisiones y supervisión de la plataforma a través de tokens de gobernanza (CHAT). Los miembros de la comunidad pueden participar en votaciones sobre decisiones importantes y supervisar la conformidad del proyecto.
+Wir ermutigen Community-Mitglieder, sich an den Plattformentscheidungen und der Überwachung durch Governance-Token (CHAT) zu beteiligen, um Transparenz und Demokratie zu gewährleisten. Community-Mitglieder können über wichtige Entscheidungen abstimmen und die Projektkonformität überwachen.
 
-## Declaración de Conformidad Legal
+## Erklärung zur rechtlichen Konformität
 
-CharityOasis cumplirá estrictamente con todas las leyes y regulaciones aplicables, asegurando la legalidad y transparencia del proyecto. Nos comprometemos a:
+CharityOasis wird sich strikt an alle geltenden Gesetze und Vorschriften halten, um die Legalität und Transparenz des Projekts zu gewährleisten. Wir verpflichten uns:
 
-- Asegurar que todas las actividades operativas cumplan con las leyes y regulaciones en las principales jurisdicciones globales.
-- Proteger estrictamente los datos de los usuarios, cumpliendo con las principales leyes de protección de datos globales.
-- Garantizar la transparencia en el uso de los fondos, con supervisión de la comunidad y el público.
+- Alle Operationen werden den Gesetzen und Vorschriften der wichtigsten Rechtsordnungen entsprechen.
+- Alle Benutzerdaten werden streng geschützt und entsprechen den wichtigsten Datenschutzgesetzen.
+- Alle Mittelverwendungen werden öffentlich transparent sein und unterliegen der Aufsicht der Gemeinschaft und der Öffentlichkeit.
 
-A través de estas medidas, aseguramos la conformidad y transparencia de CharityOasis en las principales jurisdicciones, incluyendo los requisitos de protección de datos y regulación financiera, protegiendo los derechos de los usuarios e inversores y promoviendo el desarrollo saludable de la caridad global.
+Durch diese Maßnahmen gewährleisten wir die Konformität und Transparenz von CHAT in den wichtigsten Rechtsordnungen, einschließlich Datenschutz- und Finanzregulierung, und schützen Benutzer und Investoren, um die gesunde Entwicklung der globalen Philanthropie zu fördern.
 
-## Gestión de Riesgos
+## Risiken und Minderung
 
-CharityOasis identifica y aborda los posibles riesgos a través de diversas medidas para garantizar la seguridad y estabilidad del proyecto.
+CHAT identifiziert und adressiert potenzielle Risiken durch verschiedene Maßnahmen, um Sicherheit und Stabilität zu gewährleisten.
 
-### Riesgos del Mercado
+### Marktrisiko
 
-**Medidas de Respuesta**: Diversificación de los escenarios de uso de tokens, establecimiento de una sólida base comunitaria, aumento de la frecuencia y demanda de uso de tokens, reduciendo el impacto de la volatilidad del mercado.
+**Minderungsmaßnahmen**: Diversifizierung der Token-Anwendungsfälle, Aufbau einer starken Gemeinschaftsbasis, Erhöhung der Token-Nutzungsfrequenz und Nachfrage, um die Marktvolatilität zu reduzieren.
 
-### Riesgos Técnicos
+### Technisches Risiko
 
-**Medidas de Respuesta**: Revisión y pruebas de seguridad del código, contratación de equipos de seguridad profesional, auditorías de seguridad periódicas para asegurar la seguridad y estabilidad.
+**Minderungsmaßnahmen**: Strenge Code-Überprüfung und Sicherheitstests, Einstellung professioneller Sicherheitsteams und regelmäßige Sicherheitsüberprüfungen zur Sicherstellung von Sicherheit und Stabilität.
 
-### Riesgos Legales
+### Rechtliches Risiko
 
-**Medidas de Respuesta**: Colaboración con asesores legales de primer nivel para asegurar la conformidad, respuesta rápida a cambios en el entorno legal, protección de los derechos de la plataforma y los usuarios.
+**Minderungsmaßnahmen**: Zusammenarbeit mit erstklassigen Rechtsberatern zur Sicherstellung der Konformität, schnelle Reaktion auf rechtliche Änderungen und Schutz der Plattform und der Rechte der Benutzer.
 
-## Plan de Construcción de la Comunidad y Marketing
+## Gemeinschaftsaufbau und Marketingplan
 
-La comunidad es fundamental para el éxito de CharityOasis. A través de diversos canales y actividades, nos dedicamos a construir una comunidad activa y solidaria.
+Die Gemeinschaft ist entscheidend für den Erfolg von CHAT. Durch verschiedene Kanäle und Aktivitäten wollen wir eine aktive und unterstützende Gemeinschaft aufbauen.
 
-### Interacción Comunitaria
+### Gemeinschaftsinteraktion
 
-Interacción con la comunidad a través de redes sociales, foros y sesiones AMA (Ask Me Anything), escuchando las opiniones y sugerencias de los usuarios, y fortaleciendo el sentido de pertenencia y participación de la comunidad.
+Interaktion mit der Gemeinschaft durch soziale Medien, Foren und AMA (Ask Me Anything)-Sitzungen, um das Feedback und die Vorschläge der Benutzer zu hören und das Gemeinschaftsengagement und Zugehörigkeitsgefühl zu verbessern.
 
-### Comunicación Transparente
+### Transparente Kommunikation
 
-Publicación regular de informes de progreso del proyecto, manteniendo una comunicación transparente con la comunidad, permitiendo a los usuarios conocer las últimas novedades y direcciones del proyecto, aumentando la confianza y el apoyo.
+Regelmäßige Veröffentlichung von Projektfortschrittsberichten, um die transparente Kommunikation mit der Gemeinschaft aufrechtzuerhalten, die Benutzer über die neuesten Entwicklungen und Richtungen zu informieren und das Vertrauen und die Unterstützung zu stärken.
 
-### Promoción y Marketing
+### Marketing und Werbung
 
-Promoción del proyecto a través de canales en línea y fuera de línea, utilizando publicidad en redes sociales, promociones de socios y eventos fuera de línea para atraer más usuarios y expandir la influencia.
+Förderung des Projekts durch Online- und Offline-Kanäle, Nutzung von Social-Media-Werbung, Partnerpromotionen und Offline-Events, um mehr Benutzer anzuziehen und die Reichweite zu erweitern.
 
-## Socios y Partidarios
+## Partner und Unterstützer
 
-CharityOasis establece relaciones de colaboración estrechas con entidades relevantes para aumentar la influencia y credibilidad del proyecto.
+CHAT wird enge Partnerschaften mit relevanten Sektoren aufbauen, um den Einfluss und die Glaubwürdigkeit des Projekts zu erhöhen.
 
-### Socios Potenciales
+### Potenzielle Partner
 
-Búsqueda de asociaciones con entidades relacionadas con la caridad y la tecnología blockchain, estableciendo colaboraciones estratégicas para promover conjuntamente el desarrollo de la caridad e incrementar la influencia.
+Partnerschaften mit Akteuren aus dem Wohltätigkeits- und Blockchain-Bereich werden gesucht, um strategische Kooperationen zu etablieren und gemeinsam wohltätige Bestrebungen zu fördern.
 
-### Plan de Partidarios
+### Unterstützerprogramm
 
-Desarrollo de planes de incentivos para alentar a los miembros de la comunidad y a los partidarios tempranos a promover el proyecto, utilizando recompensas de airdrop y descuentos exclusivos para incentivar su participación activa y apoyo.
+Entwicklung von Incentive-Plänen, um Community-Mitglieder und frühe Unterstützer zu ermutigen, das Projekt zu fördern. Belohnungen wie Airdrops und exklusive Rabatte sollen ihre aktive Teilnahme und Unterstützung anregen.
 
-## Conclusión
+## Fazit
 
-CharityOasis se dedica a utilizar la tecnología blockchain y un modelo económico de tokens innovador para promover el desarrollo de la caridad global. A través de la transparencia, eficiencia y mecanismos de incentivos, atraemos a más donantes y participantes para contribuir conjuntamente a la caridad.
+CharityOasis verpflichtet sich, Blockchain-Technologie und ein innovatives Token-Wirtschaftsmodell zu nutzen, um die globale Philanthropie zu fördern. Durch die Sicherstellung von Transparenz, Effizienz und Anreizmechanismen ziehen wir mehr Spender und Teilnehmer an, um wohltätige Zwecke zu unterstützen.
 
-Nuestra visión es crear un ecosistema de caridad global transparente, eficiente y justo, redefiniendo el modelo operativo de la caridad, mejorando la transparencia de las donaciones y la eficiencia del uso de los fondos. La plataforma CharityOasis garantizará que todas las donaciones sean visibles y rastreables a través de contratos inteligentes y un libro mayor público, aumentando la confianza y participación de los donantes.
+Unsere Vision ist es, ein transparentes, effizientes und faires globales Wohltätigkeitsökosystem zu schaffen, das die Abläufe der Wohltätigkeit neu definiert und die Transparenz und Effizienz der Mittelverwendung verbessert. Die CharityOasis-Plattform wird sicherstellen, dass alle Spendenflüsse und -nutzungen durch Smart Contracts und offene Ledger öffentlich sichtbar sind, wodurch das Vertrauen und die Teilnahme der Spender gestärkt werden.
 
-Además, CharityOasis se propone resolver el problema de la falta de incentivos para donar en el modelo de caridad tradicional, ofreciendo incentivos tangibles para alentar a más personas a participar en las donaciones caritativas, aumentando así el impacto general de las actividades caritativas.
+Darüber hinaus zielt CharityOasis darauf ab, das Problem der unzureichenden Spendenanreize in traditionellen Wohltätigkeitsmodellen zu lösen, indem greifbare Anreize bereitgestellt werden, um mehr Menschen zur Teilnahme an wohltätigen Spenden zu ermutigen und letztendlich die Gesamtauswirkungen wohltätiger Aktivitäten zu erhöhen.
