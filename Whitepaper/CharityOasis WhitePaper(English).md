@@ -91,7 +91,7 @@ Each quarter, the online store will allocate 20% of its revenue to project opera
 - **Total Supply**: 10 billion tokens
 - **Presale and Private Sale**: 40% (4 billion)
 - **Team and Advisors**: 5% (500 million) (4-year lock-up)
-- **Community Rewards and Governance**: 15% (1.5 billion) (Airdrop and governance rewards)
+- **Perpetual Incentive Pool**: 15% (1.5 billion)
 - **Charity Projects**: 25% (2.5 billion)
 - **Liquidity Pool**: 10% (1 billion)
 - **Reserve Fund**: 5% (500 million)
